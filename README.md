@@ -1,9 +1,9 @@
 ### Hello there, my name is Matheus aka Catel. I'm a programming enthusiast! 👋
 
+
+![Catel's github stats](https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula)
 <div>
-  ![Catel's github stats](https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaufariax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufariax&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
