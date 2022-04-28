@@ -1,4 +1,4 @@
-### Hello there, I'm Matheus aka Catel. I'm a programming enthusiast! 👋
+### Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋
 
 
 <div>
