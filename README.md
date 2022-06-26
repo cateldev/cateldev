@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
-<div align="center"> <h3>Languagues & Tools</h3> </div>
+<div align="center"> <h3>Languages & Tools</h3> </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Catel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Catel-TypeScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
