@@ -1,4 +1,4 @@
-<h2 aling="center"> Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋 </h2>
+<h2 align="center"> Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋 </h2>
 <hr>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
