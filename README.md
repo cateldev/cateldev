@@ -1,12 +1,10 @@
-<h1 aling="center"> Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋 </h1>
-<hr>
+<h2 aling="center"> Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋 </h2>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center"> <h2>Languagues & Tools</h2> </div>
-<hr>
+<div align="center"> <h3>Languagues & Tools</h3> </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Catel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Catel-TypeScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
