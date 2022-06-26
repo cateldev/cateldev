@@ -3,7 +3,7 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><br>
 
 <div align="center"> <h3>Languagues & Tools</h3> </div>
 <div style="display: inline_block" align="center"><br>
@@ -14,7 +14,7 @@
   <img align="center" alt="Catel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Catel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Catel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-</div>
+</div><br>
 
 <div style="display: inline_block" align="center">
   <h3> You can contact me on:</h3><br>
