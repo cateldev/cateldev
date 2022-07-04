@@ -29,8 +29,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cateldev&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=10" />
 </div>
 <br>
+<br>
 
-<p align="left" margin-right:"50"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </p>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
     
     
     
