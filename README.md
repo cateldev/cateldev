@@ -26,7 +26,7 @@
 
 <div align="center">
   <h3>Achievments</h3><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=cateldev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cateldev&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=10" />
 </div>
 <br>
 
