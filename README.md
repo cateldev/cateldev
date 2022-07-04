@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<p align="left" style="margin-right: 50px"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </p>
+<p align="left" margin-right:"50"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </p>
     
     
     
