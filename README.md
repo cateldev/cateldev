@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=32&duration=6000&color=DD6387&center=true&width=1012&lines=Hello%2C++rest+and+take+a+look+at+my+Github!++)](https://git.io/typing-svg)
-<hr>
 
 <div align="center"> 
 <img src="https://github.com/cateldev/cateldev/blob/main/img/darksouls.gif">
 </div>
+
+### My name is Matheus, aka Catel. Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil.
+
+If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
