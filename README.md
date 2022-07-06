@@ -5,13 +5,15 @@
 </div>
 
 <div align="center"> 
-### My name is Matheus, aka Catel. ###
+<h3> My name is Matheus, aka Catel. </h3>
 </div>
+<br>
 
 <div align="center"> 
-Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil.
-
-If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.
+<p>Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
+<br>
+  
+<p>If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.</p>
 </div>
 
 <div align="center">
