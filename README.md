@@ -13,11 +13,11 @@
 <p>Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
 <br>
   
-<p>If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.</p>
+<p>If you are looking for a dedicated, hard-working and a focused web developer, feel free to contact me.</p>
 </div>
 <br>
 
-<div align="center" gap="20">
+<div align="center" gap="20px">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
