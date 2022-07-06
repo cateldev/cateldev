@@ -15,11 +15,13 @@
   
 <p>If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.</p>
 </div>
+<br>
 
-<div align="center">
+<div align="center" gap="20">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
+</div>
+<br>
 
 <div align="center"> <h3>Languages & Tools</h3> </div>
 <div style="display: inline_block" align="center"><br>
