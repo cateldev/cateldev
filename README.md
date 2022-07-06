@@ -1,4 +1,4 @@
-<h2 align="center"> Hello there, I'm Matheus, aka Catel. I'm a programming enthusiast! 👋 </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=26&duration=6000&color=DD6387&center=true&width=440&lines=Hello%2C++rest+and+take+a+look+at+my+Github!++)](https://git.io/typing-svg)
 <hr>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
