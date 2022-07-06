@@ -4,9 +4,15 @@
 <img src="https://github.com/cateldev/cateldev/blob/main/img/darksouls.gif">
 </div>
 
-### My name is Matheus, aka Catel. Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil.
+<div align="center"> 
+### My name is Matheus, aka Catel. ###
+</div>
+
+<div align="center"> 
+Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil.
 
 If you are looking for a dedicated, hard-working and a focused coder, feel free to contact me.
+</div>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
