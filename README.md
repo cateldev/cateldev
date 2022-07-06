@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <h3>Achievments</h3><br>
+  <h3>Achievements</h3><br>
   <img src="https://github-profile-trophy.vercel.app/?username=cateldev&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=10" />
 </div>
 <br>
