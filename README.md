@@ -1,5 +1,9 @@
+
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=26&duration=6000&color=DD6387&center=true&width=440&lines=Hello%2C++rest+and+take+a+look+at+my+Github!++)](https://git.io/typing-svg)
+</div>
 <hr>
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cateldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cateldev&layout=compact&langs_count=7&theme=dracula"/>
