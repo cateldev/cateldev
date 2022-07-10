@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
     
     
     
