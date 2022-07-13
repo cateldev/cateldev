@@ -10,7 +10,7 @@
 <br>
 
 <div align="center"> 
-<p>Im a Front-end Developer and and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
+<p>Im a Front-end Developer and passionated about tehcnology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
 <br>
   
 <p>If you are looking for a dedicated, hard-working and a focused web developer, feel free to contact me.</p>
