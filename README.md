@@ -13,7 +13,7 @@
 <p>Im a Front-end Developer and passionated about technology and how anything is possible with coding. Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
 <br>
   
-<p>If you are looking for a dedicated, hard-working and a focused web developer, feel free to contact me.</p>
+<p>If you are looking for a dedicated, hard-working and a focused web developer, feel free to contact me!</p>
 </div>
 <br>
 
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
     
     
     
