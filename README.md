@@ -51,7 +51,7 @@ Everyday I seek to create awesome experiences through well developed websites. I
 <br>
 <br>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=cateldev&label=Profile%20views&color=0e75b6&style=flat" alt="cateldev" /> </div>
     
     
     
