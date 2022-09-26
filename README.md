@@ -13,7 +13,8 @@
 <p>Im a Front-end Developer and passionated about technology and how everything is possible with coding. 
 Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
 <br>
-  
+<p>Currently I'm working at Clarify Systems as Fullstack Developer creating projects with .NET & Vue </p>
+<br>
 <p>If you are looking for a dedicated, hard-working and a focused web developer, feel free to contact me!</p>
 </div>
 <br>
