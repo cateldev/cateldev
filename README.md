@@ -11,7 +11,7 @@
 
 <div align="center"> 
 <p>Im a Front-end Developer and passionated about technology and how everything is possible with coding. 
-Everyday I seek to create awesome experiences through well developed websites. I'm 25 years old, living in São Paulo, Brazil. </p>
+Everyday I seek to create awesome experiences through well developed websites. I'm 26 years old, living in São Paulo, Brazil. </p>
 <br>
 <p>Currently I'm working at Clarify Systems as Fullstack Developer creating projects with .NET & Vue </p>
 <br>
